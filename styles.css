@@ -23,11 +23,12 @@ a {
   display: block;
 }
 
-/*   */
+/* Reseteo de parrafos y anchors  */
 p a {
   display: inline;
 }
-/*   */
+
+/* Reseteo de li  */
 li {
   list-style-type: none;
 }
