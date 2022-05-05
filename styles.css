@@ -32,7 +32,7 @@ p a {
 li {
   list-style-type: none;
 }
-/*   */
+/* Scroll smooth  */
 html {
   scroll-behavior: smooth;
 }
